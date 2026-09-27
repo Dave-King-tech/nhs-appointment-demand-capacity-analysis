@@ -1,8 +1,8 @@
 # NHS Appointment Demand & Capacity Analysis
 ## Project Overview
-This Excel data analysis project explores appointment demand, available capacity, activity, waiting times and backlog across five healthcare specialties over the reporting period April 2025 to March 2026
+This Excel data analysis project explores appointment demand, available capacity, activity, waiting times and backlog across five healthcare specialties over the reporting period April 2025 to March 2026.
 The aim was to identify areas of operational pressure, assess whether available capacity was sufficient to meet appointment demand, and examine how sustained demand-capacity gaps affected backlog and waiting times.
-The project uses synthetic data created for portfolio and learning purposes and contains no real data information
+The project uses synthetic data created for portfolio and learning purposes and contains no real data information.
 # Dashboard
 ## Dashboard Overview
 ![Dashboard](Dashboard-Overview.png)
